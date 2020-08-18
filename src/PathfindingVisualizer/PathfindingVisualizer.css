@@ -1,0 +1,6 @@
+.gird {
+  width: 40px;
+  height: 40px;
+  outline: 1px solid grey;
+  display: inline-block;
+}
